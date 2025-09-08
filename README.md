@@ -77,7 +77,7 @@ PRs welcome! Please:
 - Write clear commit messages.
 
 ## 📄 License
-MIT License. See [LICENSE](./LICENSE) for details.
+Apache License. See [LICENSE](./LICENSE) for details.
 
 ---
 
